@@ -10,17 +10,16 @@
 
  Desenvolvimento de um site que proporcionará a geração de dietas, armazenando as mesmas juntamente aos dados do usuário, permitindo acompanhar a utilização da plataforma e também sua evolução sob a aplicação das dietas, fornecendo relatórios e alertas.
 
-## Integrantes
+### Equipe
+Este projeto contou com a contribuição de:
+<ul>
+ <li><a href="https://github.com/Andre98B">André Barone</a></li>
+ <li><a href="https://www.linkedin.com/in/philipe-rocha-0684021b2">Philipe Rocha</a></li>
+ <li><a href="https://github.com/GabrieldeAlmeidaCarvalho">Gabriel de Almeida</a></li>
+ <li><a href="https://github.com/RafaelPereira7L">Rafael Pereira</a></li>
+ <li><a href="https://github.com/PedroVictor022">Pedro Victor</a></li>
+</ul>
 
-* Philipe Rocha de Jesus Souza
-* Gabriel de Almeida Carvalho
-* Rafael Henrique Pereira
-* Pedro Victor Borges Franca
-* André Filipe Barbosa Barone
-
-## Orientador
-
-* Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
@@ -45,10 +44,3 @@ https://nutrix-dietas-e-acompanhamentos.azurewebsites.net/
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
-# Apresentação
-
-<li><a href="presentation/Nutrix3min.mp4"> Apresentação da solução</a></li>
