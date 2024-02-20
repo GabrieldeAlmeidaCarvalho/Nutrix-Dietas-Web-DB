@@ -2,11 +2,6 @@
 
 <img width="200" src="docs/img/logo.png" />
 
-`Análise e Desenvolvimento de Sistemas`
-
-`Desenvolvimento de uma aplicação Interativa`
-
-`Segundo Semestre - Eixo 2`
 
  Desenvolvimento de um site que proporcionará a geração de dietas, armazenando as mesmas juntamente aos dados do usuário, permitindo acompanhar a utilização da plataforma e também sua evolução sob a aplicação das dietas, fornecendo relatórios e alertas.
 
